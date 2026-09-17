@@ -1,0 +1,30 @@
+services:
+  client:
+    build:
+      context: .
+      target: client
+    container_name: impostor-client
+    restart: unless-stopped
+    depends_on:
+      - server
+    networks:
+      - proxy-network
+      - internal
+
+  server:
+    build:
+      context: .
+      target: server
+    container_name: impostor-server
+    restart: unless-stopped
+    environment:
+      PORT: "3000"
+      CLIENT_ORIGIN: "https://impostor.startofcoding.pl"
+    networks:
+      - internal
+
+networks:
+  proxy-network:
+    external: true
+  internal:
+    driver: bridge

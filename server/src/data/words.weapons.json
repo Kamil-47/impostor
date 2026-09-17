@@ -1,0 +1,175 @@
+{
+  "weapons": [
+    {
+      "id": "classic",
+      "word": "Classic",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Free", "Default", "Eco"],
+        "en": ["Free", "Default", "Eco"]
+      }
+    },
+    {
+      "id": "shorty",
+      "word": "Shorty",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Blisko", "Tani", "Smoke"],
+        "en": ["Close", "Cheap", "Smoke"]
+      }
+    },
+    {
+      "id": "frenzy",
+      "word": "Frenzy",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Automatyczny", "Szybki", "Eco"],
+        "en": ["Automatic", "Fast", "Eco"]
+      }
+    },
+    {
+      "id": "ghost",
+      "word": "Ghost",
+      "category": "weapons",
+      "hints": {
+        "pl": ["John Wick", "Pierwsza runda", "Połowa tysiąca"],
+        "en": ["John Wick", "First round", "Half a thousnd"]
+      }
+    },
+    {
+      "id": "sheriff",
+      "word": "Sheriff",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Eco", "One-tap", "Western"],
+        "en": ["Eco", "One-tap", "Western"]
+      }
+    },
+    {
+      "id": "stinger",
+      "word": "Stinger",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Tani", "Run", "Force"],
+        "en": ["Cheap", "Run", "Force"]
+      }
+    },
+    {
+      "id": "spectre",
+      "word": "Spectre",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Szybki", "Spray", "Duch"],
+        "en": ["Fast", "Spray", "Wraith"]
+      }
+    },
+    {
+      "id": "bucky",
+      "word": "Bucky",
+      "category": "weapons",
+      "hints": {
+        "pl": ["200", "nxrth", "Blisko"],
+        "en": ["200", "nxrth", "Close"]
+      }
+    },
+    {
+      "id": "judge",
+      "word": "Judge",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Automatyczny", "Spam", "Sprawiedliwość"],
+        "en": ["Automatic", "Spam", "Justice"]
+      }
+    },
+    {
+      "id": "bulldog",
+      "word": "Bulldog",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Pies", "Burst", "Słaby"],
+        "en": ["Dog", "Burst", "Weak"]
+      }
+    },
+    {
+      "id": "guardian",
+      "word": "Guardian",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Strażnik", "Precyzja", "Pojedynczy"],
+        "en": ["Keeper", "Precision", "Semi-auto"]
+      }
+    },
+    {
+      "id": "phantom",
+      "word": "Phantom",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Cichy", "((145 × 30) - 1600) ÷ 2 + 1525", "Spray"],
+        "en": ["Silent", "((145 × 30) - 1600) ÷ 2 + 1525", "Spray"]
+      }
+    },
+    {
+      "id": "vandal",
+      "word": "Vandal",
+      "category": "weapons",
+      "hints": {
+        "pl": ["One-tap", "Niezawodny", "((145 × 30) - 1600) ÷ 2 + 1525"],
+        "en": ["One-tap", "Reliable", "((145 × 30) - 1600) ÷ 2 + 1525"]
+      }
+    },
+    {
+      "id": "marshal",
+      "word": "Marshal",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Eco", "100", "Lekki"],
+        "en": ["Eco", "100", "Light"]
+      }
+    },
+    {
+      "id": "outlaw",
+      "word": "Outlaw",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Anty-eco", "Body", "Over powered"],
+        "en": ["Anti-eco", "Body", "Over powered"]
+      }
+    },
+    {
+      "id": "operator",
+      "word": "Operator",
+      "category": "weapons",
+      "hints": {
+        "pl": ["TenZ", "Drogi", "Niebezpieczny"],
+        "en": ["TenZ", "Expensive", "Dangerous"]
+      }
+    },
+    {
+      "id": "ares",
+      "word": "Ares",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Bóg", "Grecja", "Wojna"],
+        "en": ["God", "Greece", "War"]
+      }
+    },
+    {
+      "id": "odin",
+      "word": "Odin",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Ciężki", "Wallbang", "Jedno oko"],
+        "en": ["Heavy", "Wallbang", "One eye"]
+      }
+    },
+    {
+      "id": "knife",
+      "word": "Knife",
+      "category": "weapons",
+      "hints": {
+        "pl": ["Kraków", "Wręcz", "Za plecami"],
+        "en": ["London", "Hand-to-hand", "Behind"]
+      }
+    }
+  ]
+}

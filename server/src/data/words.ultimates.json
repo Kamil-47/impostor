@@ -1,0 +1,265 @@
+{
+  "ultimates": [
+    {
+      "id": "jett-ult",
+      "word": "Jett Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Tornado", "Bullseye", "Reset"],
+        "en": ["Tornado", "Bullseye", "Reset"]
+      }
+    },
+    {
+      "id": "sage-ult",
+      "word": "Sage Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Wstawaj!", "Sojusznik", "Kryształ"],
+        "en": ["Get up!", "Ally", "Crystal"]
+      }
+    },
+    {
+      "id": "omen-ult",
+      "word": "Omen Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Dr. Strange", "Cała mapa", "Za plecami"],
+        "en": ["Dr. Strange", "Whole map", "Behind"]
+      }
+    },
+    {
+      "id": "phoenix-ult",
+      "word": "Phoenix Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Ptak Dumbledore'a", "Druga szansa", "Over Powered"],
+        "en": ["Dumbledor's bird", "2nd chance", "Over Powered"]
+      }
+    },
+    {
+      "id": "sova-ult",
+      "word": "Sova Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Laser", "Przez ściany", "Skan"],
+        "en": ["Laser", "Through walls", "Scan"]
+      }
+    },
+    {
+      "id": "brimstone-ult",
+      "word": "Brimstone Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Laser", "Koło", "Post plant"],
+        "en": ["Laser", "Circle", "Post plant"]
+      }
+    },
+    {
+      "id": "viper-ult",
+      "word": "Viper Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Gęsto", "Smog", "Wykrwawianie"],
+        "en": ["Turbidly", "Smog", "Bleeding out"]
+      }
+    },
+    {
+      "id": "killjoy-ult",
+      "word": "Killjoy Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Koło", "Zniszczalne", "Timer"],
+        "en": ["Circle", "Destroyable", "Timer"]
+      }
+    },
+    {
+      "id": "cypher-ult",
+      "word": "Cypher Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Chowanego", "Cheater", "Wall Hack"],
+        "en": ["Hide & Seek", "Cheater", "Wall Hack"]
+      }
+    },
+    {
+      "id": "reyna-ult",
+      "word": "Reyna Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Boost", "Frag value", "Niewidzialność"],
+        "en": ["Boost", "Frag value", "Invisibility"]
+      }
+    },
+    {
+      "id": "raze-ult",
+      "word": "Raze Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Straszne", "Ucieczka", "No counter"],
+        "en": ["Scary", "Escape", "No counter"]
+      }
+    },
+    {
+      "id": "breach-ult",
+      "word": "Breach Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Fala", "Trzęsienie ziemi", "Ziemia"],
+        "en": ["Wave", "Earthquake", "Ground"]
+      }
+    },
+    {
+      "id": "skye-ult",
+      "word": "Skye Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Śledzenie", "Trzy", "Chowanego"],
+        "en": ["Following", "Three", "Hide & Seek"]
+      }
+    },
+    {
+      "id": "yoru-ult",
+      "word": "Yoru Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Niewidzialność", "Upside down", "Frodo"],
+        "en": ["Invisibility", "Upside down", "Frodo"]
+      }
+    },
+    {
+      "id": "astra-ult",
+      "word": "Astra Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Niezniszczalność", "Defuse", "Podział"],
+        "en": ["Unbreakable", "Defuse", "Divide"]
+      }
+    },
+    {
+      "id": "kayo-ult",
+      "word": "KAY/O Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Bezradność", "Druga szansa", "Obszar"],
+        "en": ["Helplessness ", "2nd chance", "Area"]
+      }
+    },
+    {
+      "id": "chamber-ult",
+      "word": "Chamber Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Play", "1 shot", "Spowolnienie"],
+        "en": ["Play", "1 shot", "Slow"]
+      }
+    },
+    {
+      "id": "neon-ult",
+      "word": "Neon Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Over powered", "Bieganie", "Palpatine"],
+        "en": ["Over powered", "Running", "Palpatine"]
+      }
+    },
+    {
+      "id": "fade-ult",
+      "word": "Fade Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Cisza", "Ślad", "80"],
+        "en": ["Silence", "Trail", "80"]
+      }
+    },
+    {
+      "id": "harbor-ult",
+      "word": "Harbor Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Wieloryb", "Ogromny", "Blinded"],
+        "en": ["Whale", "Huge", "Blinded"]
+      }
+    },
+    {
+      "id": "gekko-ult",
+      "word": "Gekko Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["VR", "Ryba", "Sterowanie"],
+        "en": ["VR", "Fish", "Control"]
+      }
+    },
+    {
+      "id": "deadlock-ult",
+      "word": "Deadlock Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Pająk", "Geometria", "Teammates"],
+        "en": ["Spider", "Geometry", "Teammates"]
+      }
+    },
+    {
+      "id": "iso-ult",
+      "word": "Iso Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Wyizolowany", "Na równi", "Pojedynek"],
+        "en": ["Separated", "Equal", "Duel"]
+      }
+    },
+    {
+      "id": "clove-ult",
+      "word": "Clove Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Druga szansa", "Pewność siebie", "Timer"],
+        "en": ["2nd chance", "Confidence", "Timer"]
+      }
+    },
+    {
+      "id": "vyse-ult",
+      "word": "Vyse Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Zakaz", "Kradzież", "Koło"],
+        "en": ["Prohibition", "Steal", "Circle"]
+      }
+    },
+    {
+      "id": "tejo-ult",
+      "word": "Tejo Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Fala", "Nalot", "Eksplozja"],
+        "en": ["Wave", "Airstrike", "Explosion"]
+      }
+    },
+    {
+      "id": "veto-ult",
+      "word": "Veto Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Counter", "Niewzruszony", "Leczenie"],
+        "en": ["Counter", "Unmoved", "Healing"]
+      }
+    },
+    {
+      "id": "miks-ult",
+      "word": "Miks Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Głuchy", "Fala", "Hulk"],
+        "en": ["Deaf", "Wave", "Hulk"]
+      }
+    },
+    {
+      "id": "waylay-ult",
+      "word": "Waylay Ult",
+      "category": "ultimates",
+      "hints": {
+        "pl": ["Światło", "Wiązka", "Spowolnienie"],
+        "en": ["Light", "Beam", "Slow"]
+      }
+    }
+  ]
+}

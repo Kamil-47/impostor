@@ -1,0 +1,121 @@
+{
+  "app.title": "Impostor",
+  "app.subtitle": "Gra słowna z kategoriami z Valoranta",
+
+  "nav.back": "← Wróć",
+  "nav.home": "Strona główna",
+
+  "home.createRoom": "Stwórz pokój",
+  "home.joinRoom": "Dołącz do pokoju",
+
+  "form.nickname": "Nick",
+  "form.nicknamePlaceholder": "Twój nick",
+
+  "create.title": "Stwórz pokój",
+  "create.impostorCount": "Liczba impostorów",
+  "create.roundsCount": "Liczba rund",
+  "create.category": "Kategoria",
+  "create.creating": "Tworzenie...",
+  "create.submit": "Stwórz pokój",
+
+  "category.agents": "Agenci",
+  "category.maps": "Mapy",
+  "category.weapons": "Bronie",
+  "category.ultimates": "Ulty",
+  "category.random": "Losowa",
+
+  "language.pl": "Polski",
+  "language.en": "English",
+
+  "error.enterNickname": "Wpisz nick",
+  "error.enterRoomCode": "Wpisz kod pokoju",
+
+  "join.title": "Dołącz do pokoju",
+  "join.roomCode": "Kod pokoju",
+  "join.joining": "Dołączanie...",
+  "join.submit": "Dołącz",
+
+  "room.connecting": "Łączenie z pokojem...",
+
+  "lobby.title": "Lobby",
+  "lobby.roomCode": "Kod pokoju:",
+  "lobby.copied": "Skopiowano!",
+  "lobby.copyLink": "Kopiuj link zaproszeniowy",
+  "lobby.players": "Gracze ({{count}})",
+  "lobby.playersLabel": "Gracze",
+  "lobby.kick": "Wyrzuć",
+  "lobby.cancelReady": "Anuluj",
+  "lobby.ready": "Gotowy",
+  "lobby.startGame": "Rozpocznij grę",
+  "lobby.settings": "Ustawienia gry",
+  "lobby.waitForPlayers": "Potrzeba min. {{min}} gotowych graczy",
+
+  "player.host": "Host",
+  "player.you": "Ty",
+  "player.ready": "Gotowy",
+  "player.notReady": "Brak gotowości",
+
+  "round.waiting": "Oczekiwanie na rozdanie...",
+  "round.yourCard": "Twoja karta",
+  "round.yourRole": "Twoja rola:",
+  "round.discussHint": "Dyskutujecie na żywo - spróbujcie znaleźć impostora!",
+  "round.impostorHint": "To twoja jedyna podpowiedź - nie daj się nakryć i spróbuj zgadnąć hasło!",
+  "round.yourTurn": "Twoja kolej! Otwórz chat, by wysłać podpowiedź.",
+  "round.playerTurn": "{{name}} myśli...",
+
+  "role.player": "Gracz",
+  "role.impostor": "Impostor",
+
+  "play.round": "Runda {{current}} z {{total}}",
+  "play.turnHeader": "Podpowiedzi",
+  "play.cluesThisRound": "Podpowiedzi w tej rundzie",
+  "play.thinking": "myśli...",
+  "play.upNext": "Następny",
+  "play.waitingRow": "czeka na swoją kolej",
+  "play.submit": "Wyślij",
+  "play.error.duplicate": "Ta podpowiedź już padła",
+  "play.error.empty": "Wpisz podpowiedź",
+  "play.error.tooLong": "Maksymalnie 40 znaków",
+  "play.error.notYourTurn": "Nie twoja tura",
+  "play.error.invalidChars": "Podpowiedź zawiera niedozwolone znaki",
+  "play.error.isWord": "Nie możesz użyć hasła jako podpowiedzi!",
+
+  "voting.title": "Głosuj na impostora",
+  "voting.subtitle": "Uzbieraj {{count}} głosy i odpadasz!",
+  "voting.playersAndClues": "Gracze i podpowiedzi",
+  "voting.impostorBadge": "{{count}} Impostor",
+  "voting.roundBadge": "Runda {{number}}",
+  "voting.earlier": "Wcześniej:",
+  "voting.vote": "Głosuj",
+  "voting.yourWord": "Twoje hasło:",
+  "voting.yourHint": "Twoja podpowiedź:",
+  "voting.votedCount": "Zagłosowało: {{voted}} / {{total}}",
+  "voting.alreadyVoted": "Oddałeś głos - czekamy na pozostałych graczy...",
+  "voting.whoToVote": "Na kogo głosujesz?",
+
+  "results.title": "Wyniki rundy",
+  "results.impostorWins": "Impostor wygrywa!",
+  "results.playersWin": "Gracze wygrywają!",
+  "results.word": "Tajne hasło",
+  "results.impostor": "Impostor",
+  "results.impostors": "Impostorzy",
+  "results.caughtByClue": "Impostor wpisał swoją podpowiedź jako wskazówkę i został złapany!",
+  "results.guessedWord": "Impostor odgadł tajne hasło i wygrywa!",
+  "results.nextRound": "Następna runda",
+  "results.waitingForHost": "Host rozpocznie kolejną rundę wkrótce.",
+
+  "kicked.title": "Wyrzucono z pokoju",
+  "kicked.message": "Host usunął Cię z lobby.",
+
+  "chat.title": "Podpowiedzi",
+  "chat.players": "Graczy",
+  "chat.placeholder": "Wiadomość...",
+  "chat.waitingForTurn": "Czekaj na swoją kolej...",
+  "chat.clueLabel": "Podpowiedź {{name}}",
+  "chat.votingStarted": "Głosowanie rozpoczęte. Oddaj swój głos!",
+
+  "round.aborted": "Runda anulowana - {{name}} opuścił grę",
+
+  "create.hintsEnabled": "Podpowiedzi dla impostora",
+  "round.impostorNoHint": "Nie daj się nakryć i spróbuj zgadnąć hasło!"
+}
