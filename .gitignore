@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+*.log
+*.tsbuildinfo
+
+.env
+.env.local
+
+.DS_Store
+Thumbs.db
+
+.claude/
+implementing-plan*.md
+impostor-architecture-decisions.md
+impostor-project-context.md

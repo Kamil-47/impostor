@@ -1,0 +1,265 @@
+{
+  "agents": [
+    {
+      "id": "jett",
+      "word": "Jett",
+      "category": "agents",
+      "hints": {
+        "pl": ["Burza", "aspas", "Operator"],
+        "en": ["Storm", "aspas", "Operator"]
+      }
+    },
+    {
+      "id": "sage",
+      "word": "Sage",
+      "category": "agents",
+      "hints": {
+        "pl": ["Życie", "Zielony", "Blokada"],
+        "en": ["Life", "Green", "Blockade"]
+      }
+    },
+    {
+      "id": "omen",
+      "word": "Omen",
+      "category": "agents",
+      "hints": {
+        "pl": ["Ciemny", "Dr. Strange", "IGL"],
+        "en": ["Dark", "Dr. Strange", "IGL"]
+      }
+    },
+    {
+      "id": "phoenix",
+      "word": "Phoenix",
+      "category": "agents",
+      "hints": {
+        "pl": ["Ciemny", "Notre-Dame", "Confident"],
+        "en": ["Dark", "Notre-Dame", "Confident"]
+      }
+    },
+    {
+      "id": "sova",
+      "word": "Sova",
+      "category": "agents",
+      "hints": {
+        "pl": ["Oko", "Electro", "Obserwacja"],
+        "en": ["Eye", "Electro", "Observation"]
+      }
+    },
+    {
+      "id": "brimstone",
+      "word": "Brimstone",
+      "category": "agents",
+      "hints": {
+        "pl": ["Broda", "Ciężki", "Trzy"],
+        "en": ["Beard", "Heavy", "Three"]
+      }
+    },
+    {
+      "id": "viper",
+      "word": "Viper",
+      "category": "agents",
+      "hints": {
+        "pl": ["Ściana", "nAts", "Nerf"],
+        "en": ["Wall", "nAts", "Nerf"]
+      }
+    },
+    {
+      "id": "killjoy",
+      "word": "Killjoy",
+      "category": "agents",
+      "hints": {
+        "pl": ["Tęcza", "Słońce", "Molly"],
+        "en": ["Rainbow", "Sun", "Molly"]
+      }
+    },
+    {
+      "id": "cypher",
+      "word": "Cypher",
+      "category": "agents",
+      "hints": {
+        "pl": ["IT", "Ochrona", "nAts"],
+        "en": ["IT", "Security", "nAts"]
+      }
+    },
+    {
+      "id": "reyna",
+      "word": "Reyna",
+      "category": "agents",
+      "hints": {
+        "pl": ["Ego", "Instalock", "Oko"],
+        "en": ["Ego", "Instalock", "Eye"]
+      }
+    },
+    {
+      "id": "raze",
+      "word": "Raze",
+      "category": "agents",
+      "hints": {
+        "pl": ["Słuchanie", "Samolot", "Jinggg"],
+        "en": ["Listening", "Airplane", "Jinggg"]
+      }
+    },
+    {
+      "id": "breach",
+      "word": "Breach",
+      "category": "agents",
+      "hints": {
+        "pl": ["Broda", "Cyborg", "Trzęsienie"],
+        "en": ["Beard", "Cyborg", "Earthquake"]
+      }
+    },
+    {
+      "id": "skye",
+      "word": "Skye",
+      "category": "agents",
+      "hints": {
+        "pl": ["Zielony", "Ślepy", "Kapusta"],
+        "en": ["Green", "Blind", "Cabbage"]
+      }
+    },
+    {
+      "id": "yoru",
+      "word": "Yoru",
+      "category": "agents",
+      "hints": {
+        "pl": ["Nerf", "Dwie", "Dr. Strange"],
+        "en": ["Nerf", "Two", "Dr. Strange"]
+      }
+    },
+    {
+      "id": "astra",
+      "word": "Astra",
+      "category": "agents",
+      "hints": {
+        "pl": ["Projekcja", "Ściana", "Ciemny"],
+        "en": ["Projection", "Wall", "Dark"]
+      }
+    },
+    {
+      "id": "kayo",
+      "word": "KAY/O",
+      "category": "agents",
+      "hints": {
+        "pl": ["AI", "Niebieski", "Kraków"],
+        "en": ["AI", "Blue", "London"]
+      }
+    },
+    {
+      "id": "chamber",
+      "word": "Chamber",
+      "category": "agents",
+      "hints": {
+        "pl": ["Arsenał", "Off-angle", "Złoto"],
+        "en": ["Arsenal", "Off-angle", "Gold"]
+      }
+    },
+    {
+      "id": "neon",
+      "word": "Neon",
+      "category": "agents",
+      "hints": {
+        "pl": ["Irytujące", "Niebieski", "Ściana"],
+        "en": ["Annoying", "Blue", "Wall"]
+      }
+    },
+    {
+      "id": "fade",
+      "word": "Fade",
+      "category": "agents",
+      "hints": {
+        "pl": ["Mrok", "Oko", "Bezwzględny"],
+        "en": ["Darkness", "Eye", "Ruthless"]
+      }
+    },
+    {
+      "id": "harbor",
+      "word": "Harbor",
+      "category": "agents",
+      "hints": {
+        "pl": ["Ściana", "Ratownik", "Broda"],
+        "en": ["Wall", "Lifeguard", "Beard"]
+      }
+    },
+    {
+      "id": "gekko",
+      "word": "Gekko",
+      "category": "agents",
+      "hints": {
+        "pl": ["Przyjaciele", "Pomocnik", "Eminem"],
+        "en": ["Friends", "Helper", "Eminem"]
+      }
+    },
+    {
+      "id": "deadlock",
+      "word": "Deadlock",
+      "category": "agents",
+      "hints": {
+        "pl": ["Zima", "Złapany", "Pająk"],
+        "en": ["Winter", "Trapped", "Spider"]
+      }
+    },
+    {
+      "id": "iso",
+      "word": "Iso",
+      "category": "agents",
+      "hints": {
+        "pl": ["Arena", "Tarcza", "Słuchanie"],
+        "en": ["Arena", "Shield", "Listening"]
+      }
+    },
+    {
+      "id": "clove",
+      "word": "Clove",
+      "category": "agents",
+      "hints": {
+        "pl": ["Nie-Duelista", "Nieśmiertelność", "Zza grobu"],
+        "en": ["Non-Duelist", "Immortality", "Beyond grave"]
+      }
+    },
+    {
+      "id": "vyse",
+      "word": "Vyse",
+      "category": "agents",
+      "hints": {
+        "pl": ["Metal", "Blokada", "Flash"],
+        "en": ["Metal", "Blockade", "Flash"]
+      }
+    },
+    {
+      "id": "tejo",
+      "word": "Tejo",
+      "category": "agents",
+      "hints": {
+        "pl": ["Boom", "Nalot", "Zwiad"],
+        "en": ["Boom", "Airstrike", "Recon"]
+      }
+    },
+    {
+      "id": "veto",
+      "word": "Veto",
+      "category": "agents",
+      "hints": {
+        "pl": ["Niewzruszony", "Leczenie", "Broda"],
+        "en": ["Unmoved", "Healing", "Beard"]
+      }
+    },
+    {
+      "id": "miks",
+      "word": "Miks",
+      "category": "agents",
+      "hints": {
+        "pl": ["Boom-box", "Głuchy", "Leczenie"],
+        "en": ["Boom-box", "Deaf", "Healing"]
+      }
+    },
+    {
+      "id": "waylay",
+      "word": "Waylay",
+      "category": "agents",
+      "hints": {
+        "pl": ["Powrót", "Entry", "Spowolnienie"],
+        "en": ["Return", "Entry", "Slow"]
+      }
+    }
+  ]
+}

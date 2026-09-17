@@ -1,0 +1,121 @@
+{
+  "app.title": "Impostor",
+  "app.subtitle": "A Valorant-themed word game",
+
+  "nav.back": "← Back",
+  "nav.home": "Home",
+
+  "home.createRoom": "Create room",
+  "home.joinRoom": "Join room",
+
+  "form.nickname": "Nickname",
+  "form.nicknamePlaceholder": "Your nickname",
+
+  "create.title": "Create room",
+  "create.impostorCount": "Number of impostors",
+  "create.roundsCount": "Number of rounds",
+  "create.category": "Category",
+  "create.creating": "Creating...",
+  "create.submit": "Create room",
+
+  "category.agents": "Agents",
+  "category.maps": "Maps",
+  "category.weapons": "Weapons",
+  "category.ultimates": "Ultimates",
+  "category.random": "Random",
+
+  "language.pl": "Polski",
+  "language.en": "English",
+
+  "error.enterNickname": "Enter a nickname",
+  "error.enterRoomCode": "Enter a room code",
+
+  "join.title": "Join room",
+  "join.roomCode": "Room code",
+  "join.joining": "Joining...",
+  "join.submit": "Join",
+
+  "room.connecting": "Connecting to room...",
+
+  "lobby.title": "Lobby",
+  "lobby.roomCode": "Room code:",
+  "lobby.copied": "Copied!",
+  "lobby.copyLink": "Copy invite link",
+  "lobby.players": "Players ({{count}})",
+  "lobby.playersLabel": "Players",
+  "lobby.kick": "Kick",
+  "lobby.cancelReady": "Cancel",
+  "lobby.ready": "Ready",
+  "lobby.startGame": "Start game",
+  "lobby.settings": "Game settings",
+  "lobby.waitForPlayers": "Need at least {{min}} ready players",
+
+  "player.host": "Host",
+  "player.you": "You",
+  "player.ready": "Ready",
+  "player.notReady": "Not ready",
+
+  "round.waiting": "Waiting for cards to be dealt...",
+  "round.yourCard": "Your card",
+  "round.yourRole": "Your role:",
+  "round.discussHint": "Discuss in person - try to find the impostor!",
+  "round.impostorHint": "This is your only hint - don’t get caught and try to guess the word!",
+  "round.yourTurn": "It’s your turn! Open chat to send a clue.",
+  "round.playerTurn": "{{name}} is thinking...",
+
+  "role.player": "Player",
+  "role.impostor": "Impostor",
+
+  "play.round": "Round {{current}} of {{total}}",
+  "play.turnHeader": "Clues",
+  "play.cluesThisRound": "Clues this round",
+  "play.thinking": "thinking...",
+  "play.upNext": "Up next",
+  "play.waitingRow": "waiting for their turn",
+  "play.submit": "Send",
+  "play.error.duplicate": "This clue was already given",
+  "play.error.empty": "Enter a clue",
+  "play.error.tooLong": "Maximum 40 characters",
+  "play.error.notYourTurn": "Not your turn",
+  "play.error.invalidChars": "Clue contains invalid characters",
+  "play.error.isWord": "You can't use the secret word as a clue!",
+
+  "voting.title": "Vote for the impostor",
+  "voting.subtitle": "Reach {{count}} votes and you’re out!",
+  "voting.playersAndClues": "Players & Clues",
+  "voting.impostorBadge": "{{count}} Impostor",
+  "voting.roundBadge": "Round {{number}}",
+  "voting.earlier": "Earlier:",
+  "voting.vote": "Vote",
+  "voting.yourWord": "Your word:",
+  "voting.yourHint": "Your hint:",
+  "voting.votedCount": "Voted: {{voted}} / {{total}}",
+  "voting.alreadyVoted": "You have voted - waiting for other players...",
+  "voting.whoToVote": "Who do you vote for?",
+
+  "results.title": "Round results",
+  "results.impostorWins": "Impostor wins!",
+  "results.playersWin": "Players win!",
+  "results.word": "The secret word",
+  "results.impostor": "Impostor",
+  "results.impostors": "Impostors",
+  "results.caughtByClue": "The impostor used their hint as a clue and got caught!",
+  "results.guessedWord": "The impostor guessed the secret word and wins!",
+  "results.nextRound": "Next round",
+  "results.waitingForHost": "Host will start the next round shortly.",
+
+  "kicked.title": "Removed from room",
+  "kicked.message": "The host has removed you from the lobby.",
+
+  "chat.title": "Clues",
+  "chat.players": "Players",
+  "chat.placeholder": "Message...",
+  "chat.waitingForTurn": "Waiting for your turn...",
+  "chat.clueLabel": "{{name}}’s Clue",
+  "chat.votingStarted": "Voting has started. Cast your vote!",
+
+  "round.aborted": "Round cancelled - {{name}} left the game",
+
+  "create.hintsEnabled": "Hints for impostor",
+  "round.impostorNoHint": "Don't get caught and try to guess the word!"
+}

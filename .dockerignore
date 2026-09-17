@@ -1,0 +1,12 @@
+node_modules
+dist
+*.log
+*.tsbuildinfo
+.env
+.env.local
+.git
+.gitignore
+.eslintrc.cjs
+*.md
+docker
+nginx-proxy

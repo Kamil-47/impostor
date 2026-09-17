@@ -1,0 +1,112 @@
+{
+  "maps": [
+    {
+      "id": "bind",
+      "word": "Bind",
+      "category": "maps",
+      "hints": {
+        "pl": ["Holi", "Gorąco", "A, B"],
+        "en": ["Holi", "Hot", "Short"]
+      }
+    },
+    {
+      "id": "haven",
+      "word": "Haven",
+      "category": "maps",
+      "hints": {
+        "pl": ["Duże", "Trudny", "Góra"],
+        "en": ["Big", "Hard", "Up"]
+      }
+    },
+    {
+      "id": "split",
+      "word": "Split",
+      "category": "maps",
+      "hints": {
+        "pl": ["Szary", "Wieża", "Retake"],
+        "en": ["Gray", "Tower", "Retake"]
+      }
+    },
+    {
+      "id": "ascent",
+      "word": "Ascent",
+      "category": "maps",
+      "hints": {
+        "pl": ["Miasto", "Lubiany", "Przełącznik"],
+        "en": ["City", "Likeable", "Switch"]
+      }
+    },
+    {
+      "id": "icebox",
+      "word": "Icebox",
+      "category": "maps",
+      "hints": {
+        "pl": ["Zimno", "Żólty", "Tuba"],
+        "en": ["Cold", "Yellow", "Tube"]
+      }
+    },
+    {
+      "id": "breeze",
+      "word": "Breeze",
+      "category": "maps",
+      "hints": {
+        "pl": ["Gorąco", "Wyspa", "Duża"],
+        "en": ["Hot", "Island", "Big"]
+      }
+    },
+    {
+      "id": "fracture",
+      "word": "Fracture",
+      "category": "maps",
+      "hints": {
+        "pl": ["Inny", "Satelita", "H"],
+        "en": ["Different", "Dish", "H"]
+      }
+    },
+    {
+      "id": "pearl",
+      "word": "Pearl",
+      "category": "maps",
+      "hints": {
+        "pl": ["Ciemno", "Woda", "Miasto"],
+        "en": ["Dark", "Water", "City"]
+      }
+    },
+    {
+      "id": "lotus",
+      "word": "Lotus",
+      "category": "maps",
+      "hints": {
+        "pl": ["Kwiat", "Drzwi", "Woda"],
+        "en": ["Flower", "Doors", "Water"]
+      }
+    },
+    {
+      "id": "sunset",
+      "word": "Sunset",
+      "category": "maps",
+      "hints": {
+        "pl": ["Prawie noc", "Elbow", "Drzwi"],
+        "en": ["Almost night", "Elbow", "Doors"]
+      }
+    },
+    {
+      "id": "abyss",
+      "word": "Abyss",
+      "category": "maps",
+      "hints": {
+        "pl": ["K2", "Duża", "Samobójstwo"],
+        "en": ["K2", "Big", "Suicide"]
+      }
+    },
+    {
+      "id": "summit",
+      "word": "Summit",
+      "category": "maps",
+      "hints": {
+        "pl": ["Drzwi", "Ciemno", "Świątynia"],
+        "en": ["Doors", "Dark", "Tample"]
+      }
+    }
+  ]
+}
