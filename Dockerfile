@@ -27,6 +27,7 @@ COPY --from=builder /app/server/package.json server/
 COPY --from=builder /app/client/package.json client/
 COPY --from=builder /app/shared/dist/ shared/dist/
 COPY --from=builder /app/server/dist/ server/dist/
+COPY --from=builder /app/server/src/data/ server/dist/data/
 COPY --from=builder /app/node_modules/ node_modules/
 
 ENV NODE_ENV=production
