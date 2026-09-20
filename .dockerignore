@@ -8,5 +8,4 @@ dist
 .gitignore
 .eslintrc.cjs
 *.md
-docker
 nginx-proxy
